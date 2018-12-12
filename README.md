@@ -1,2 +1,2 @@
 # CodeAndStuff
-repo for code and other stuff
+reference projects and other junk
